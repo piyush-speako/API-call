@@ -9,7 +9,7 @@ export default async function handler(req, res) {
                 { image },
                 {
                     headers: {
-                        'Authorization': `Bearer YOUR_LIGHTX_API_KEY`,
+                        'Authorization': `Bearer 22eccfafb6544c9a8b9b1fa539f64e54_03476e407bd74616a086eae85e9ea91d_andoraitools`,
                         'Content-Type': 'application/json',
                     },
                 }
